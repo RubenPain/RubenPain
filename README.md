@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Pain</h1>
-<h3 align="center">Student @lecoleLDLC and co-founder @foodtrucktoday</h3>
+<h3 align="center">Student @IIM-Digital-School and co-founder @foodtrucktoday</h3>
 
 - 🔭 I’m currently working on [Foodtruck Today](https://foodtrucktoday.fr) (mobile app that geolocalize foodtrucks)
 
